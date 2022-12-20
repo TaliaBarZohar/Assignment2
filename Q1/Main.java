@@ -2,6 +2,7 @@
 //Id: 318257060
 //name: Stav Sagi
 //Id: 316584622
+//git:https://github.com/TaliaBarZohar/Assignment2
 package Q1;
 
 import java.util.Scanner;
